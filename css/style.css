@@ -4,7 +4,8 @@ body {
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
-    margin: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 /* Heading Styles */
@@ -53,8 +54,8 @@ div {
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #FFFFFF;
-    border-left: 5px solid #FFFFFF;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 /* Blue Div (Fixing Color) */
@@ -62,8 +63,8 @@ div {
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #FFFFFF;
-    border-top: 2px solid #FFFFFF;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 .blue h1,
@@ -77,8 +78,8 @@ div {
     background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #FFFFFF;
-    border-left: 5px solid #FFFFFF;
+    border-bottom: 2px;
+    border-left: 5px;
 }
 
 .yellow p {
@@ -90,8 +91,8 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #FFFFFF;
-    border-top: 2px solid #FFFFFF;
+    border-right: 5px;
+    border-top: 2px;
 }
 
 /* Footer Styling */
@@ -103,5 +104,7 @@ footer {
 footer p {
     font-size: 20px;
     text-align: right;
-    padding: 15px 0 15px 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }

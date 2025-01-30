@@ -4,9 +4,7 @@ body {
     font-family: Arial, Verdana;
     background-color: #000000;
     color: #FFFFFF;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-bottom: 0;
+    margin: 20px 20px 0 20px; /* Top, Right, Bottom, Left */
 }
 
 /* Heading Styles */
